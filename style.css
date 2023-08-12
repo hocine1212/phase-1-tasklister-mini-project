@@ -13,6 +13,9 @@ body {
 button {
   font-size: 7px;
 }
+ul li::before {
+  color: black;
+}
 
 #main-content {
   position: relative;
